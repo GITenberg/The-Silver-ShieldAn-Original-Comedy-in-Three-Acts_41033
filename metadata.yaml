@@ -1,0 +1,27 @@
+_repo: The-Silver-ShieldAn-Original-Comedy-in-Three-Acts_41033
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 41033-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Grundy, Sydney
+    birthdate: 1848
+    deathdate: 1914
+    gutenberg_agent_id: '40847'
+    url: http://www.gutenberg.org/2009/agents/40847
+description: ''
+gutenberg_issued: '2012-10-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '41033'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Comedies'
+- !lcc 'PR'
+- !lcsh 'English drama -- 19th century'
+title: 'The Silver Shield: An Original Comedy in Three Acts'
+url: http://www.gutenberg.org/ebooks/41033
